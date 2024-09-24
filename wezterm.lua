@@ -6,7 +6,7 @@ local config = wezterm.config_builder()
 
 -- This is where you actually apply your config choices
 
-config.font = wezterm.font("Cascadia Code NF")
+config.font = wezterm.font("Cascadia Mono NF")
 config.font_size = 14
 
 config.enable_tab_bar = false
